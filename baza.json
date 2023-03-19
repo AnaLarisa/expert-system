@@ -1,0 +1,236 @@
+{
+    "criterii": [
+      {
+        "nume": "tip_proprietate",
+        "intrebare": "Care este tipul proprietății?",
+        "raspunsuri": [
+          {
+            "valoare": "Apartamente",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Pensiune",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Hoteluri",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Hosteluri",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Vile",
+            "punctaj": 1
+          }
+        ]
+      },
+      {
+        "nume": "capacitate",
+        "intrebare": "Câte persoane doresc să se cazeze?",
+        "raspunsuri": [
+          {
+            "valoare": "1",
+            "punctaj": 1
+          },
+          {
+            "valoare": "2",
+            "punctaj": 1
+          },
+          {
+            "valoare": "3",
+            "punctaj": 1
+          },
+          {
+            "valoare": "4",
+            "punctaj": 1
+          }
+        ]
+      },
+      {
+        "nume": "stele",
+        "intrebare": "Câte stele doresc să aibă proprietatea?",
+        "raspunsuri": [
+          {
+            "valoare": "2",
+            "punctaj": 1
+          },
+          {
+            "valoare": "3",
+            "punctaj": 1
+          },
+          {
+            "valoare": "4",
+            "punctaj": 1
+          },
+          {
+            "valoare": "5",
+            "punctaj": 1
+          },
+          {
+            "valoare": "nu conteaza",
+            "punctaj": 0
+          }
+        ]
+      },
+      {
+        "nume": "mic_dejun",
+        "intrebare": "Se oferă micul dejun?",
+        "raspunsuri": [
+          {
+            "valoare": "da",
+            "punctaj": 1
+          },
+          {
+            "valoare": "nu",
+            "punctaj": 0
+          }
+        ]
+      },
+      {
+        "nume": "facilitati",
+        "intrebare": "Ce facilități doresc să aibă proprietatea?",
+        "raspunsuri": [
+          {
+            "valoare": "Wi-fi",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Parcare",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Receptie non-stop",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Sala fitness",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Sauna",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Spa",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Masaj",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Cada",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Jacuzzi",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Piscina",
+            "punctaj": 1
+          }
+        ]
+      },
+      {
+        "nume": "facilitati_camera",
+        "intrebare": "Ce facilități doresc să aibă camera?",
+        "raspunsuri": [
+          {
+            "valoare": "Balcon",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Bucatarie",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Frigider",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Tv",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Prosoape",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Priza langa pat",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Uscator de par",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Priveliste",
+            "punctaj": 1
+          }
+        ]
+      },
+      {
+        "nume": "baie",
+        "intrebare": "Doresc sa am baie privata?",
+        "raspunsuri": [
+          {
+            "valoare": "da",
+            "punctaj": 1
+          },
+          {
+            "valoare": "nu",
+            "punctaj": 0
+          }
+        ]
+      },
+      {
+        "nume": "scor",
+        "intrebare": "Care e scorul proprietatii dorite?",
+        "raspunsuri": [
+          {
+            "valoare": "Placut 6+",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Bine 7+",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Foarte bine 8+",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Superb 9+",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Nu ma intereseaza",
+            "punctaj": 0
+          }
+        ]
+      },
+      {
+        "nume":"distanta_centru",
+        "intrebare":"Care este distanta fata de centru?",
+        "raspunsuri": [
+          {
+            "valoare": "Mai putin de 3 km",
+            "punctaj": 1
+          },
+          {
+            "valoare": "Nu ma intereseaza",
+            "punctaj": 0
+          }
+        ]
+      }
+    ]
+}
+
+
+
+
+
+  

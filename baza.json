@@ -5,7 +5,7 @@
         "intrebare": "Care este tipul proprietății?",
         "raspunsuri": [
           {
-            "valoare": "Apartamente",
+            "valoare": "Apartament",
             "punctaj": 1
           },
           {
@@ -13,15 +13,15 @@
             "punctaj": 1
           },
           {
-            "valoare": "Hoteluri",
+            "valoare": "Hotel",
             "punctaj": 1
           },
           {
-            "valoare": "Hosteluri",
+            "valoare": "Hostel",
             "punctaj": 1
           },
           {
-            "valoare": "Vile",
+            "valoare": "Vilă",
             "punctaj": 1
           }
         ]
@@ -44,6 +44,14 @@
           },
           {
             "valoare": "4",
+            "punctaj": 1
+          },
+          {
+            "valoare": "5",
+            "punctaj": 1
+          },
+          {
+            "valoare": "6",
             "punctaj": 1
           }
         ]
@@ -69,7 +77,7 @@
             "punctaj": 1
           },
           {
-            "valoare": "nu conteaza",
+            "valoare": "nu contează",
             "punctaj": 0
           }
         ]
@@ -101,15 +109,15 @@
             "punctaj": 1
           },
           {
-            "valoare": "Receptie non-stop",
+            "valoare": "Recepție non-stop",
             "punctaj": 1
           },
           {
-            "valoare": "Sala fitness",
+            "valoare": "Sală fitness",
             "punctaj": 1
           },
           {
-            "valoare": "Sauna",
+            "valoare": "Saună",
             "punctaj": 1
           },
           {
@@ -121,7 +129,7 @@
             "punctaj": 1
           },
           {
-            "valoare": "Cada",
+            "valoare": "Cadă",
             "punctaj": 1
           },
           {
@@ -129,7 +137,7 @@
             "punctaj": 1
           },
           {
-            "valoare": "Piscina",
+            "valoare": "Piscină",
             "punctaj": 1
           }
         ]
@@ -159,22 +167,22 @@
             "punctaj": 1
           },
           {
-            "valoare": "Priza langa pat",
+            "valoare": "Priză lângă pat",
             "punctaj": 1
           },
           {
-            "valoare": "Uscator de par",
+            "valoare": "Uscător de păr",
             "punctaj": 1
           },
           {
-            "valoare": "Priveliste",
+            "valoare": "Priveliște",
             "punctaj": 1
           }
         ]
       },
       {
         "nume": "baie",
-        "intrebare": "Doresc sa am baie privata?",
+        "intrebare": "Doresc să am baie privată?",
         "raspunsuri": [
           {
             "valoare": "da",
@@ -188,10 +196,10 @@
       },
       {
         "nume": "scor",
-        "intrebare": "Care e scorul proprietatii dorite?",
+        "intrebare": "Care e scorul proprietății dorite?",
         "raspunsuri": [
           {
-            "valoare": "Placut 6+",
+            "valoare": "Plăcut 6+",
             "punctaj": 1
           },
           {
@@ -207,21 +215,21 @@
             "punctaj": 1
           },
           {
-            "valoare": "Nu ma intereseaza",
+            "valoare": "Nu mă interesează",
             "punctaj": 0
           }
         ]
       },
       {
         "nume":"distanta_centru",
-        "intrebare":"Care este distanta fata de centru?",
+        "intrebare":"Care este distanța față de centru?",
         "raspunsuri": [
           {
-            "valoare": "Mai putin de 3 km",
+            "valoare": "Mai puțin de 3 km",
             "punctaj": 1
           },
           {
-            "valoare": "Nu ma intereseaza",
+            "valoare": "Nu mă interesează",
             "punctaj": 0
           }
         ]
